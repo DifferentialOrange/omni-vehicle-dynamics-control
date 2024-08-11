@@ -403,7 +403,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>theta(T)</string>
+     <string>theta(0)</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_13">
@@ -458,7 +458,7 @@
      <string>0</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_theta_T_2">
+   <widget class="QLineEdit" name="lineEdit_theta_0">
     <property name="geometry">
      <rect>
       <x>990</x>
